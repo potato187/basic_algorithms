@@ -1,10 +1,3 @@
-// module.exports.digitsProduct = function (product){
-//   if(product === 1) return 1;
-//   if(product === 0) return 10;
-
-//   return 0;
-// }
-
 function digitsProduct(product)
 {
     if(product === 0) return 10;
