@@ -16,7 +16,6 @@ test('Number zeros at the end of 1!', () => {
   expect(numberZeroDigits(1)).toBe(0);
 });
 
-
 test('Number zeros at the end of 5000!', () => {
   expect(numberZeroDigits(5000)).toBe(1249);
 });
