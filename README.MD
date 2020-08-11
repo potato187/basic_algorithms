@@ -13,3 +13,5 @@
 ### 10. Test password is strong.
 
 ### 11. Convert the uppercase letters to lowercase.
+
+### 12. Check a String is Palindrome
