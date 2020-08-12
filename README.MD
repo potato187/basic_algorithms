@@ -15,3 +15,5 @@
 ### 11. Convert the uppercase letters to lowercase.
 
 ### 12. Check a String is Palindrome
+
+### 13. Remove extra white-spaces frome the given string.
