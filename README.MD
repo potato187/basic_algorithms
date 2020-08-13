@@ -16,4 +16,6 @@
 
 ### 12. Check a String is Palindrome
 
-### 13. Remove extra white-spaces frome the given string.
+### 13. Remove extra white-spaces from the given string.
+
+### 14. Check Repeated String.
