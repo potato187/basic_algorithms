@@ -10,7 +10,7 @@ function isPangram(str) {
       arr[string[i]]++;
     }
   }
-
+  console.log(arr);
   return count === 26;
 }
 
