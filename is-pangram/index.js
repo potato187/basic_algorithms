@@ -13,7 +13,3 @@ function isPangram(str) {
   console.log(arr);
   return count === 26;
 }
-
-isPangram(
-  "qwer36.tyuioplkjdchgf,dsazxcvbnmpoic(dgfu)ytrewqas dfghjkgbblmnbvcxz"
-);
